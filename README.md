@@ -53,7 +53,7 @@ python main.py
 ![Tic-Tac-Toe Screenshot](screenshots/ttt2.png)
 ![Tic-Tac-Toe Screenshot](screenshots/ttt3.png)
 
-To download the XD file for this UI, [click here^Telegram^](https://t.me/Mohammad_Bagamboo)
+To download the XD file for this UI, [click here](https://t.me/Mohammad_Bagamboo)
 
 ## License
 
