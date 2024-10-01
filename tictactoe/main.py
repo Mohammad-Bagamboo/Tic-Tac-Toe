@@ -1,7 +1,7 @@
 """ # Tic-tac-toe game
 
-Made by **Mohammad Bagamboo | MB** with love in *Mukalla*. For any suggestions or or reporting any
-errors, please get on touch with me using the links below.
+Made by **Mohammad Bagamboo | MB** with love in *Mukalla*. For any suggestions or reporting any
+errors, please get in touch with me using the links below.
 
 X ==> https://x.com/Mohamad_Bagambo
 
