@@ -1,0 +1,21 @@
+{
+    "light-green": "#85FFA2",
+    "light-red": "#FF95AF",
+    "bg-color": "#2B2B2B",
+    "border-color": "#3B69E6",
+    "text-color-1": "#FFFFFF",
+    "text-color-2": "#A4A4A4",
+    "window-size": [
+        480,
+        350
+    ],
+    "square-width": 100,
+    "square-height": 100,
+    "message-window-size": [
+        280,
+        130
+    ],
+    "txt1": 18,
+    "txt2": 16,
+    "txt3": 14
+}

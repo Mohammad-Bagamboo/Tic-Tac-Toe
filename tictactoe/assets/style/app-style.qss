@@ -1,0 +1,47 @@
+QWidget {
+    background-color: @bg-color;
+}
+
+QLabel {
+    font-size: @txt1;
+}
+
+QPushButton#replay {
+    background-color: @border-color;
+    color: @text-color-1;
+    font-size: @txt1 px;
+    border-style: none;
+    width: 120px;
+    height: 30px;
+
+}
+
+QPushButton#exit {
+    background-color: transparent;
+    border-style: solid;
+    border-width: 1px;
+    width: 120px;
+    height: 30px;
+    border-color: @border-color;
+    color: @border-color;
+}
+
+QPushButton#exit:hover {
+    background-color: @border-color;
+    color: white;
+}
+
+QMessageBox {
+    background-color: @bg-color;
+}
+
+QMessageBox QLabel {
+    color: white;
+}
+
+QMessageBox QPushButton {
+    background-color: @border-color;
+    border-style: none;
+    width: 50px;
+    color: white;
+}
