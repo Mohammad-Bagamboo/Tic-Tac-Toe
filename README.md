@@ -61,6 +61,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 
+Mohammad Bagamboo | MB
+
 - [Follow me on X](https://x.com/Mohamad_Bagambo)
 
 - [Follow me on Telegram](https://t.me/Mohammad_Bagamboo)
